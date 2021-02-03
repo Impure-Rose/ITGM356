@@ -1,2 +1,0 @@
-C:\Users\Wick\Documents\ITGM356\GearGrinder\Intermediate\Build\Win64\UE4Editor\Development\GearGrinder\Definitions.GearGrinder.h
-C:\Users\Wick\Documents\ITGM356\GearGrinder\Source\GearGrinder\GearGrinder.h
